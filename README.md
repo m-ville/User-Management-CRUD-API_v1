@@ -18,6 +18,6 @@
 | 5. Delete all the users.                                 | DELETE | `/users`             |
 
 
-## Demo/Usuge
+## Demo/Usage
 > **1. Creating a user :**
 > ![InkedUser Management CRUD API - Create User_LI](https://user-images.githubusercontent.com/94619482/159142923-4db5740d-4c01-43a0-ada0-7a589ebee6a4.jpg)
