@@ -6,7 +6,7 @@
 
 > A user can be created with by providing **username(unique + required), password (required), name, phone** (using  x-www-form-urlencoded, se SS below).
 
->Format : `{HostedURL}/{endPoints}`
+>Format : `{HostedURL}/{endPointURL}`
 
 |   Task       |     Method/HTTP Verb      |    Path/ Endpoint URL      |
 | :---------   |     :--------------:      |     :---------------:      |
