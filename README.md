@@ -1,4 +1,4 @@
-# User-Management-CRUD-API_v1
+# User-Management-CRUD-API
 - It's a User Management api, which can do CRUD operations. 
 - It's built on `REST` api architecture.
 - It's using `mongoDB atlas` for storing the data.
